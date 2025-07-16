@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align='center>
+<p align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Tufail+Mehraj;Software+Engineer;Full-Stack+Developer;Passionate+about+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
