@@ -31,8 +31,8 @@ I'm a passionate **Software Engineer** focused on building elegant, scalable, an
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=react&show_icons=true&hide=contribs" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=react" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ShahTufail&theme=react&show_icons=true&hide=contribs" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahTufail&layout=compact&theme=react" />
 </div>
 
 ---
