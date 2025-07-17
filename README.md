@@ -50,7 +50,7 @@ I'm a passionate **Software Engineer** focused on building elegant, scalable, an
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/tufail-mehraj/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tufail-mehraj"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shahtuffey@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tufail.tech"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
