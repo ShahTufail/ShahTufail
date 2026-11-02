@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I'm a passionate **Software Engineer** focused on building elegant, scalable, and maintainable solutions.
+I'm a passionate **Freelance - Software Engineer** focused on building elegant, scalable, secure and maintainable solutions with and without AI.
 
 - 🔭 I’m currently working on: `Modern Web Apps` & `Developer Tools`
 - 🌱 Currently using and learning: `AI tools`, `RAG and Gen AI`, `Design Systems`
