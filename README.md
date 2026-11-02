@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Tufail+Mehraj;Software+Engineer;Full-Stack+Developer;Passionate+about+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Tufail+Mehraj;AI+Software+Engineer;Full-Stack+Developer;Passionate+about+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 I'm a passionate **Software Engineer** focused on building elegant, scalable, and maintainable solutions.
 
 - 🔭 I’m currently working on: `Modern Web Apps` & `Developer Tools`
-- 🌱 Currently learning: `AI tools`, `Edge Functions`, `Design Systems`
-- 💬 Ask me about: `React`, `Node.js`, `TypeScript`, `System Design`
+- 🌱 Currently using and learning: `AI tools`, `RAG and Gen AI`, `Design Systems`
+- 💬 Ask me about: `React`, `Node.js`, `TypeScript`, `System Design`, 'AI'
 - 📫 Reach me at: `shahtuffey@gmail.com`
 
 ---
@@ -52,7 +52,7 @@ I'm a passionate **Software Engineer** focused on building elegant, scalable, an
 <p align="left">
   <a href="https://www.linkedin.com/in/tufail-mehraj"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shahtuffey@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tufail.tech"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://v0-tufail-mehraj.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 
 ---
