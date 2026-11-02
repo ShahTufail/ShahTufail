@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Tufail+Mehraj;AI+Software+Engineer;Full-Stack+Developer;Passionate+about+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Tufail+Mehraj;AI+Software+Engineer;Full-Stack+Developer;Freelance+Dev+Solution+Architect;Passionate+about+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,6 +12,7 @@ I'm a passionate **Freelance - Software Engineer** focused on building elegant, 
 - 🔭 I’m currently working on: `Modern Web Apps` & `Developer Tools`
 - 🌱 Currently using and learning: `AI tools`, `RAG and Gen AI`, `Design Systems`
 - 💬 Ask me about: `React`, `Node.js`, `TypeScript`, `System Design`, 'AI'
+- 🧰 Want to connect for a task, freelance opportunity, Contract Position or want my full time and focus hire me!
 - 📫 Reach me at: `shahtuffey@gmail.com`
 
 ---
