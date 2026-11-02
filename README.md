@@ -9,11 +9,11 @@
 
 I'm a passionate **Freelance - Software Engineer** focused on building elegant, scalable, secure and maintainable solutions with and without AI.
 
-- 🔭 I’m currently working on: `Modern Web Apps` & `Developer Tools`
-- 🌱 Currently using and learning: `AI tools`, `RAG and Gen AI`, `Design Systems`
-- 💬 Ask me about: `React`, `Node.js`, `TypeScript`, `System Design`, 'AI'
-- 🧰 Want to connect for a task, freelance opportunity, Contract Position or want my full time and focus hire me!
-- 📫 Reach me at: `shahtuffey@gmail.com`
+🔭 I’m currently working on: `Modern Web Apps` & `Developer Tools`
+🌱 Currently using and learning: `AI tools`, `RAG and Gen AI`, `Design Systems`
+💬 Ask me about: `React`, `Node.js`, `TypeScript`, `System Design`, 'AI', 'Solutions', 'Projects'
+🧰 Want to connect for a task, freelance opportunity, Contract Position or want my full time and focus hire me! Give me a buzz on any off my socials scattered below 😄
+📫 Reach me at: `shahtuffey@gmail.com`
 
 ---
 
